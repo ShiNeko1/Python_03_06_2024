@@ -4,13 +4,13 @@ list_three = []
 list_four = [45, "two", 6, -4, 0, None, 3]
 
 # work_list = list_one
-# work_list = list_two
+work_list = list_two
 # work_list = list_three
-work_list = list_four
+# work_list = list_four
 
 result_list = []
 
-if (not work_list) or (work_list[0] == work_list[:]):
+if not work_list:
     result_list = work_list
 else:
     result_list = [work_list[-1]]
