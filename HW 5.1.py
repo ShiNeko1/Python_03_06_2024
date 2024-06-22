@@ -2,6 +2,12 @@ import keyword
 import string
 
 variable_name = input("Input a variable name: ")
+
+if not variable_name:
+    result = False
+    print(result)
+    exit()
+
 punct_checker = False
 capital_checker = False
 
@@ -21,11 +27,11 @@ for capital_counter in range(65, 91):
 
 if punct_checker:
     result = False
+elif capital_checker:
+    result = False
 elif variable_name in keyword.kwlist:
     result = False
 elif variable_name.count("_") == len(variable_name) and len(variable_name) > 1:
-    result = False
-elif capital_checker:
     result = False
 elif variable_name[0].isnumeric():
     result = False
