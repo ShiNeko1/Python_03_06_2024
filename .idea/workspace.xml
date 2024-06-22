@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d0783d-c3eb-4f8c-80a7-2722334ec30d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 5.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 4.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 4.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,44 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW 2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW 2.1.executor": "Run",
+    "Python.HW 2.2.executor": "Run",
+    "Python.HW 3.1.executor": "Run",
+    "Python.HW 3.2.executor": "Run",
+    "Python.HW 3.3.executor": "Run",
+    "Python.HW 4.1.executor": "Run",
+    "Python.HW 4.2.executor": "Run",
+    "Python.HW 4.3.executor": "Run",
+    "Python.HW 5.2.executor": "Run",
+    "Python.example.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "M:/Hillel/Python_03_06_2024"
   }
-}</component>
-  <component name="RunManager" selected="Python.HW 4.3">
-    <configuration name="HW 3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_03_06_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW 3.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\Hillel\Python_03_06_2024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HW 5.2">
     <configuration name="HW 4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_03_06_2024" />
       <option name="ENV_FILES" value="" />
@@ -138,6 +121,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="HW 5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_03_06_2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW 5.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_03_06_2024" />
       <option name="ENV_FILES" value="" />
@@ -184,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW 5.2" />
         <item itemvalue="Python.HW 4.3" />
         <item itemvalue="Python.example" />
         <item itemvalue="Python.HW 4.2" />
         <item itemvalue="Python.HW 4.1" />
-        <item itemvalue="Python.HW 3.1" />
       </list>
     </recent_temporary>
   </component>
