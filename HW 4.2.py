@@ -10,7 +10,7 @@ if not work_list:
     print(0)
     exit()
 
-#### First Variant ####
+#### First variant ####
 
 # result_sum = 0
 # list_len = len(work_list)
@@ -30,5 +30,6 @@ list_of_even = work_list[::2]
 result_sum = sum(list_of_even) * work_list[-1]
 
 #### END of the second variant ####
+
 
 print(result_sum)
