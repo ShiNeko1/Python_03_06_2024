@@ -10,9 +10,8 @@ while not input_hashtag:
     input_hashtag = input_hashtag.strip(all_punctuation)
     input_hashtag = input_hashtag.title()
 
-    for string_element in input_hashtag:
-        if string_element in all_punctuation:
-            input_hashtag = input_hashtag.replace(string_element, "")
+    for punct in all_punctuation:
+        input_hashtag = input_hashtag.replace(punct, "")
 
     if not input_hashtag:
         print("You've input only punctuation symbols for a hashtag.")
