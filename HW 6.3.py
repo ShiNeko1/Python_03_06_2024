@@ -17,4 +17,4 @@ while number_len > 1:
     number_len = len(mul_number)
     mul = 1
 
-print(mul_number)
+print(input_number, mul_number, sep=" -> ")
