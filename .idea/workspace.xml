@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d0783d-c3eb-4f8c-80a7-2722334ec30d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HW 12.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 12.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Python.HW 11.2.executor": "Run",
     "Python.HW 11.3.executor": "Run",
     "Python.HW 12.1.executor": "Run",
+    "Python.HW 12.2.executor": "Run",
     "Python.HW 2.1.executor": "Run",
     "Python.HW 2.2.executor": "Run",
     "Python.HW 3.1.executor": "Run",
@@ -77,7 +78,7 @@
       <recent name="M:\Hillel\Python_03_06_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW 12.1">
+  <component name="RunManager" selected="Python.HW 12.2">
     <configuration name="HW 11.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_03_06_2024" />
       <option name="ENV_FILES" value="" />
@@ -166,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exampla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW 12.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_03_06_2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exampla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW 12.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW 12.2" />
         <item itemvalue="Python.HW 12.1" />
         <item itemvalue="Python.HW 11.1" />
         <item itemvalue="Python.HW 11.2" />
         <item itemvalue="Python.HW 11.3" />
-        <item itemvalue="Python.exampla" />
       </list>
     </recent_temporary>
   </component>
