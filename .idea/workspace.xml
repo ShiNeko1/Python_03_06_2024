@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d0783d-c3eb-4f8c-80a7-2722334ec30d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HW 14.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW 13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 13.2.py" afterDir="false" />
     </list>
@@ -32,49 +33,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW 10.1.executor": "Run",
-    "Python.HW 10.2.executor": "Run",
-    "Python.HW 10.3.executor": "Run",
-    "Python.HW 11.1.executor": "Run",
-    "Python.HW 11.2.executor": "Run",
-    "Python.HW 11.3.executor": "Run",
-    "Python.HW 12.1.executor": "Run",
-    "Python.HW 12.2.executor": "Run",
-    "Python.HW 13.1.executor": "Run",
-    "Python.HW 13.2.executor": "Run",
-    "Python.HW 2.1.executor": "Run",
-    "Python.HW 2.2.executor": "Run",
-    "Python.HW 3.1.executor": "Run",
-    "Python.HW 3.2.executor": "Run",
-    "Python.HW 3.3.executor": "Run",
-    "Python.HW 4.1.executor": "Run",
-    "Python.HW 4.2.executor": "Run",
-    "Python.HW 4.3.executor": "Run",
-    "Python.HW 5.1.executor": "Run",
-    "Python.HW 5.2.executor": "Run",
-    "Python.HW 5.3.executor": "Run",
-    "Python.HW 6.1.executor": "Run",
-    "Python.HW 6.2.executor": "Run",
-    "Python.HW 6.3.executor": "Run",
-    "Python.HW 7.1.executor": "Run",
-    "Python.HW 7.2.executor": "Run",
-    "Python.HW 7.3.executor": "Run",
-    "Python.HW 7.4.executor": "Run",
-    "Python.HW 8.1.executor": "Run",
-    "Python.HW 8.2.executor": "Run",
-    "Python.HW 8.3.executor": "Run",
-    "Python.HW 9.1.executor": "Run",
-    "Python.HW 9.2.executor": "Run",
-    "Python.exampla.executor": "Run",
-    "Python.example.executor": "Run",
-    "Python.exapmle.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "M:/Hillel/Python_03_06_2024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW 10.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 10.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 10.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 11.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 11.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 11.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 12.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 12.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 13.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 13.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 7.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 7.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 8.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 9.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 9.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exampla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exapmle.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;M:/Hillel/Python_03_06_2024&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="M:\Hillel\Python_03_06_2024" />
