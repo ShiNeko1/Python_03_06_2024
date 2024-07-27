@@ -42,7 +42,9 @@ class Purchase:
         total = 0
         for key, cnt in self.products.items():
             total += key.price * cnt
-        return total
+
+        self.total = total
+        return self.total
 
 
 
