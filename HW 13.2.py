@@ -6,7 +6,8 @@ class Counter:
         self.max_value = max_value
 
     def set_current(self, start):
-        self.current = start
+        if self.min_value <= start <= self.max_value:
+            self.current = start
 
     def set_max(self, max_max):
         self.max_value = max_max
