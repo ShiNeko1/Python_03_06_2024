@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7d0783d-c3eb-4f8c-80a7-2722334ec30d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 14.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 14.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <recent name="M:\Hillel\Python_03_06_2024\HW 14.2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.HW 14.1">
     <configuration name="HW 12.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_03_06_2024" />
       <option name="ENV_FILES" value="" />
@@ -219,8 +220,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.HW 14.1" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.HW 13.2" />
         <item itemvalue="Python.HW 13.1" />
         <item itemvalue="Python.HW 12.2" />

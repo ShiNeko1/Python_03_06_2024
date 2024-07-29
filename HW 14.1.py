@@ -1,3 +1,18 @@
+class CustomError(Exception):
+    """Class for custom errors"""
+
+    def __init__(self, message, code=None):
+        self.message = message
+        self.code = code
+
+    def __str__(self):
+        if self.code:
+            return f"[Error code {self.code}: {self.message}]"
+        else:
+            return self.args[0]
+
+
+
 class Human:
 
     def __init__(self, gender, age, first_name, last_name):
@@ -30,7 +45,7 @@ class Group:
 
     def add_student(self, student):
         if len(self.group) >= 10:
-            raise ValueError("There are already ten students in the group.")
+            raise CustomError("There are already ten students in the group.", code=400)
         else:
             self.group.add(student)
 
@@ -66,7 +81,7 @@ gr = Group('PD1')
 for student in Student.students:
     try:
         gr.add_student(student)
-    except ValueError as err:
+    except CustomError as err:
         print(err)
         break
 
