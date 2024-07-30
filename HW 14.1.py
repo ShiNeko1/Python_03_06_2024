@@ -8,8 +8,6 @@ class CustomError(Exception):
     def __str__(self):
         if self.code:
             return f"[Error code {self.code}: {self.message}]"
-        else:
-            return self.args[0]
 
 
 
