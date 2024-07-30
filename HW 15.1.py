@@ -9,8 +9,11 @@ class CustomError(Exception):
 class Rectangle:
 
     def __init__(self, width, height):
-        self.width = width
-        self.height = height
+        if width < 0 or height < 0:
+            raise CustomError("ValueError: rectangle can't have a side less than zero.")
+        else:
+            self.width = width
+            self.height = height
 
     def get_square(self):
         return self.width * self.height
@@ -33,7 +36,12 @@ class Rectangle:
         if not isinstance(n, (int, float)):
             raise CustomError("ClassError: rectangle can't be multiplied by something other than int or float.")
 
-        return Rectangle(self.width, self.height * n)
+        if n >= 0:
+            return Rectangle(self.width, self.height * n)
+        else:
+            raise CustomError("ValueError: can't multiply by negative number "
+                              "as rectangle area can't be less than zero.")
+
 
     @staticmethod
     def get_new_side(side_one, side_two):
