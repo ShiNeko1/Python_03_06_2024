@@ -39,10 +39,10 @@ class Fraction:
     #         greater_cmn_div = gcd(self.b, other.b)
     #         return self.b * other.b / greater_cmn_div
 
-    def find_multiplier(self, b):
-        """To find a multiplier for a numerator when leading two fractions to a common denominator"""
-        greater_cmn_div = gcd(self.b, b)
-        return int(self.b / greater_cmn_div)
+    # def find_multiplier(self, b): # not used right now
+    #     """To find a multiplier for a numerator when leading two fractions to a common denominator"""
+    #     greater_cmn_div = gcd(self.b, b)
+    #     return int(self.b / greater_cmn_div)
 
     def __mul__(self, other):
         """Method to multiply two fractions"""
